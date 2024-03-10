@@ -2,7 +2,7 @@
 public class ValidPalindrome {
 
 //	Write a function that takes a string, s, as an input and determines whether or not it is a palindrome.
-
+# adding a comment
 	  public static boolean isPalindrome(String s) {
 		    int left = 0;
 		    int right = s.length() - 1;
